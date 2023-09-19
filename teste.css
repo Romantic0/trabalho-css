@@ -1,0 +1,32 @@
+h1{ 
+    color: yellow; 
+    background-color: black; 
+    font-family: fantasy;
+   }
+   
+
+   body{
+    color:yellow;
+    background-color: black;
+   }
+
+  li {font-family: fantasy;}
+
+  body{
+    background:  url(https://i.pinimg.com/originals/9c/19/74/9c19744d5204799dd343696ce4656548.jpg) no-repeat right top fixed;
+    background-size: cover;
+     
+    
+    }
+ font-face{ 
+    font-family: MarcellusSC;
+    src: url(fon/MarcellusSC-Regular.ttf) format(truetype);
+    
+ }
+ P{font-family:MarcellusSC;}
+
+
+ body{
+   color:yellow;
+   background-color: black;
+  }
